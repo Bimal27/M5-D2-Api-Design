@@ -1,0 +1,24 @@
+{
+  "name": "m5-d2-api-design",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bimal27/M5-D2-Api-Design.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bimal27/M5-D2-Api-Design/issues"
+  },
+  "homepage": "https://github.com/Bimal27/M5-D2-Api-Design#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
